@@ -1,0 +1,4 @@
+nomore_mine.py
+*.csv
+.idea/
+*.pyc
